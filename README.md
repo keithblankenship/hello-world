@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+My name is Keith Blankenship. I'm a signal processing engineer and FPGA developer at Epiq Solutions.
